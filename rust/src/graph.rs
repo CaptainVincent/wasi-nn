@@ -14,6 +14,7 @@ pub enum GraphEncoding {
     Pytorch,
     TensorflowLite,
     Autodetec,
+    Burn,
 }
 
 /// Define where the graph should be executed.
